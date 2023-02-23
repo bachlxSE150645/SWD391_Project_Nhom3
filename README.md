@@ -2,6 +2,9 @@ First Commit  ---  @Author Group 3
 # SWD391_Project_Nhom3
 Quản lý shopping 
 Công nghệ : 
+Mobile :
+Flutter( có thể thay đồi sau)
+BackEnd:
 JAVA SPRING BOOT 
 MySQL 
 ngrok
@@ -21,3 +24,4 @@ dàn bài:
 - use case
 - vv
 3: demo
+
