@@ -1,15 +1,23 @@
 First Commit  ---  @Author Group 3 
 # SWD391_Project_Nhom3
-QUAN LY SHOPPING
-WEB API//mobile  CRUD CO BAN, SPRING BOOT, MVC
-Micro service khai niem, tinh nang, dac diem(uu nhuoc)
-Mo hinh 3 layer(kien truc phan lop)
-Do bai :
-1)gioi thieu muc tieu ve micro service
-- phạm Vi
-2) thiet ke xay dung 
+Quản lý shopping 
+Công nghệ : 
+JAVA SPRING BOOT 
+MySQL 
+ngrok
+Sử dụng :
+- web API //mobile
+- Mô hình 3 layer
+-Microservice
 
-3)demo
-
-github 
-file note readme 
+dàn bài:
+1 : giới thiệu về microservice 
+- Khái niệm
+- tính năng 
+- đặc điểm (ưu và nhược)
+- Phạm vi 
+2 : Thiet ke xay dung 
+- flow chart 
+- use case
+- vv
+3: demo
