@@ -50,3 +50,10 @@ order:id,scription, price per 100km, price per time
   |
  PopUp: Imformation new customer only
  
+Thứ 3, 3/7/2023
+làm Login logout (back end)
+gọi API 
+test thử sign up, sign in 
+modiator : full quyền 
+Admin : quản lý (ko full quyền)
+thiết kế trang web (cơ bản )
